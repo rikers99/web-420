@@ -1,6 +1,6 @@
 # web-420
-author:  Steve Culmer
-Professor:  Richard Krasso
+- author:  Steve Culmer
+- Professor:  Richard Krasso
 
 
 # WEB 420 RESTFul APIs
