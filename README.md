@@ -1,3 +1,8 @@
+# web-420
+author:  Steve Culmer
+Professor:  Richard Krasso
+
+
 # WEB 420 RESTFul APIs
 ## [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
 
