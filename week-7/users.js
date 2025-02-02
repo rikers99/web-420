@@ -1,6 +1,6 @@
 /**
- * Author: Professor Krasso
- * Date: 4/1/2024
+ * Author: 
+ * Date: 
  * File Name: users.js
  * Description: Users collection file for the in-n-out-books/cookbook application; used to store user data
  */
