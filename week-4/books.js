@@ -1,6 +1,6 @@
 /**
- * Author: Professor Krasso
- * Date: 4/1/2024
+ * Author: Steve Culmer
+ * Date: 2 feb 2025
  * File Name: books.js
  * Description: Books collection file for the in-n-out-books application; used to store book data
  */
