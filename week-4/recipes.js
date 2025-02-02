@@ -1,6 +1,6 @@
 /**
- * Author: Professor Krasso
- * Date: 4/1/2024
+ * Author: Steve Culmer
+ * Date: 2 feb 2025
  * File Name: recipes.js
  * Description: Recipe collection file for the cookbook application; used to store recipe data
  */
