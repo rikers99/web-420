@@ -1,6 +1,6 @@
 /**
- * Author: Professor Krasso
- * Date: 4/1/2024
+ * Author: Steve Culmer
+ * Date: 2 feb 2025
  * File Name: collection.js
  * Description: Collection class used to mimic MongoDB CRUD operations
  */
